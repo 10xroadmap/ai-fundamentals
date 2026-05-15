@@ -1,0 +1,8 @@
+# For plotting graph
+matplotlib
+# For Array processing
+numpy
+# For data manipulation
+pandas
+# For Linear Regression
+scikit-learn
