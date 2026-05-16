@@ -7,6 +7,12 @@ Please refer to **requirements.txt**
 ### What this repository contains 
 Python programs on inference/rule-based-systems, plotting and linear-regression.
 
+### Important Links
+- [Youtube Video](https://www.youtube.com/watch?v=b4XHzxpRfh0)
+- [Medium Article](https://10xroadmap.medium.com/10x-roadmap-to-ai-fundamentals-08be92bb8300)
+-  [Github repo](https://github.com/10xroadmap/ai-fundamentals)
+- [WhatsApp Channel](https://whatsapp.com/channel/0029VbDnOyeEgGfGjzd8Mx1s)
+
 ### Prerequisites
 [Python 3.11.0 or Higher](https://www.python.org/downloads/release/python-3110/) 
 
