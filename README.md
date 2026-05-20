@@ -26,8 +26,8 @@ Python programs on inference/rule-based-systems, plotting and linear-regression.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/KenMwaura1/Fast-Api-example.git
-   cd Fast-Api-example
+   git clone https://github.com/10xroadmap/ai-fundamentals
+   cd ai-fundamentals
    ```
 
 2. **Inside repo folder create virtual environment**
